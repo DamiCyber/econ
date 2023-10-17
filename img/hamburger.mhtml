@@ -1,0 +1,211 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/USER/AppData/Local/Temp/Rar$EXa4532.11876/mobile-navigation-animation-nothing4us/src/index.html#
+Subject: Mobile Navigation Animation | Nothing4us
+Date: Thu, 17 Aug 2023 15:04:22 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--sehWTciO2CU067jIQsUNeJO5V5LCZ78qvzmHKrLipB----"
+
+
+------MultipartBoundary--sehWTciO2CU067jIQsUNeJO5V5LCZ78qvzmHKrLipB----
+Content-Type: text/html
+Content-ID: <frame-60376F2744135BFE11BC417320AC1F31@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/USER/AppData/Local/Temp/Rar$EXa4532.11876/mobile-navigation-animation-nothing4us/src/index.html#
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+ =20
+  <title>  Mobile Navigation Animation | Nothing4us </title>
+  <link rel=3D"stylesheet" href=3D"https://cdnjs.cloudflare.com/ajax/libs/m=
+eyer-reset/2.0/reset.min.css">
+<link rel=3D"stylesheet" href=3D"https://cdnjs.cloudflare.com/ajax/libs/fon=
+t-awesome/4.5.0/css/font-awesome.min.css"><link rel=3D"stylesheet" href=3D"=
+file:///C:/Users/USER/AppData/Local/Temp/Rar$EXa4532.11876/mobile-navigatio=
+n-animation-nothing4us/src/style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+
+<div class=3D"container">
+  <span class=3D"menu-trigger">
+    <i class=3D"menu-trigger-bar top"></i>
+    <i class=3D"menu-trigger-bar middle"></i>
+    <i class=3D"menu-trigger-bar bottom"></i>
+  </span>
+  <span class=3D"close-trigger">
+    <i class=3D"close-trigger-bar left"></i>
+    <i class=3D"close-trigger-bar right"></i>
+  </span>
+  <span class=3D"logo">
+    <span>
+      =E2=AC=A2
+      <i class=3D"logo-title">UI</i>
+      <i class=3D"logo-badge">6</i>
+    </span>
+  </span>
+  <div class=3D"inner-container">
+      <i class=3D"menu-bg top"></i>
+      <i class=3D"menu-bg middle"></i>
+      <i class=3D"menu-bg bottom"></i>
+    <div class=3D"menu-container">
+      <ul class=3D"menu">
+        <li>
+          <a href=3D"file:///C:/Users/USER/AppData/Local/Temp/Rar$EXa4532.1=
+1876/mobile-navigation-animation-nothing4us/src/index.html#">Login</a>
+        </li>
+        <li>
+          <a href=3D"file:///C:/Users/USER/AppData/Local/Temp/Rar$EXa4532.1=
+1876/mobile-navigation-animation-nothing4us/src/index.html#">Create account=
+</a>
+        </li>
+        <li>
+          <a href=3D"file:///C:/Users/USER/AppData/Local/Temp/Rar$EXa4532.1=
+1876/mobile-navigation-animation-nothing4us/src/index.html#">Support</a>
+        </li>
+        <li>
+          <a href=3D"file:///C:/Users/USER/AppData/Local/Temp/Rar$EXa4532.1=
+1876/mobile-navigation-animation-nothing4us/src/index.html#">About</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- partial -->
+ =20
+
+
+
+
+
+</body></html>
+------MultipartBoundary--sehWTciO2CU067jIQsUNeJO5V5LCZ78qvzmHKrLipB----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--sehWTciO2CU067jIQsUNeJO5V5LCZ78qvzmHKrLipB----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--sehWTciO2CU067jIQsUNeJO5V5LCZ78qvzmHKrLipB----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/USER/AppData/Local/Temp/Rar$EXa4532.11876/mobile-navigation-animation-nothing4us/src/style.css
+
+@charset "utf-8";
+
+@import url("https://fonts.googleapis.com/css?family=3DNoto+Sans:400,700");
+
+body { background-color: rgb(24, 1, 72); padding: 50px 0px; font-family: "N=
+oto Sans", sans-serif; text-align: center; }
+
+.container { background-color: rgb(34, 34, 34); width: 100%; max-width: 320=
+px; min-height: 568px; margin: 0px auto; border-radius: 8px; position: rela=
+tive; overflow: hidden; box-shadow: rgba(0, 0, 0, 0.3) 0px 9px 13px 0px; tr=
+ansform: scale(1); }
+
+.menu-trigger, .close-trigger { position: absolute; top: 32px; right: 20px;=
+ display: block; width: 42px; height: 42px; cursor: pointer; z-index: 333; =
+}
+
+.menu-trigger:hover .menu-trigger-bar::before, .close-trigger:hover .menu-t=
+rigger-bar::before { width: 100%; }
+
+.menu-trigger:hover .close-trigger-bar::before, .close-trigger:hover .close=
+-trigger-bar::before { width: 100%; }
+
+.close-trigger { z-index: 5; top: 42px; }
+
+.menu-trigger-bar { display: block; width: 100%; height: 4px; background-co=
+lor: white; margin-bottom: 6px; transform: rotate(-45deg); position: relati=
+ve; }
+
+.menu-trigger-bar::before { content: ""; position: absolute; top: 0px; left=
+: 0px; display: block; width: 0%; height: 100%; background-color: rgba(0, 0=
+, 0, 0.2); transition: all 0.3s cubic-bezier(0.55, 0, 0.1, 1) 0s; }
+
+.menu-trigger-bar.top { width: 50%; }
+
+.menu-trigger-bar.middle::before { left: auto; right: 0px; }
+
+.menu-trigger-bar.bottom { width: 50%; margin-left: 50%; }
+
+.close-trigger-bar { display: block; width: 100%; height: 4px; background-c=
+olor: rgb(34, 34, 34); position: relative; }
+
+.close-trigger-bar::before { content: ""; position: absolute; top: 0px; lef=
+t: 0px; display: block; width: 0%; height: 100%; background-color: rgba(255=
+, 255, 255, 0.2); transition: all 0.3s cubic-bezier(0.55, 0, 0.1, 1) 0s; }
+
+.close-trigger-bar.left { transform: translateX(100px) translateY(-100px) r=
+otate(-45deg); }
+
+.close-trigger-bar.right { transform: translateX(-100px) translateY(-100px)=
+ rotate(45deg); top: -3px; }
+
+.logo { display: block; width: 64px; height: 64px; position: absolute; top:=
+ 50%; left: 50%; margin-top: -52px; margin-left: -32px; text-align: center;=
+ z-index: 10; }
+
+.logo span { display: block; text-align: center; line-height: 62px; font-si=
+ze: 72px; color: white; }
+
+.logo-title { position: absolute; top: 10px; left: 0px; width: 100%; height=
+: 100%; color: rgb(34, 34, 34); font-size: 32px; }
+
+.logo-badge { position: absolute; display: block; width: 24px; height: 24px=
+; top: 6px; right: -6px; border-radius: 100%; background-color: rgb(98, 149=
+, 202); font-size: 12px; line-height: 2; text-align: center; }
+
+.inner-container, .menu-container { position: absolute; height: 100%; width=
+: 100%; left: 0px; top: 0px; }
+
+.inner-container { z-index: 20; }
+
+.menu-container { display: flex; align-items: center; }
+
+.menu { display: block; width: 100%; padding: 20%; }
+
+.menu li { text-align: left; display: block; padding: 15px 0px; }
+
+.menu a { text-decoration: none; color: rgb(34, 34, 34); display: inline-bl=
+ock; padding: 10px 0px; position: relative; }
+
+.menu a:hover::before { opacity: 1; transform: translateX(0px); }
+
+.menu a::before { content: ""; display: block; position: absolute; left: 0p=
+x; bottom: 0px; width: 18px; height: 4px; opacity: 0; background-color: rgb=
+(34, 34, 34); transform: translateX(100px); transition: all 0.3s cubic-bezi=
+er(0.55, 0, 0.1, 1) 0s; }
+
+.menu-bg { position: absolute; display: block; width: 200%; left: -53%; top=
+: -25%; height: 40%; background-color: white; }
+
+.menu-bg.middle { top: 29%; left: -53%; transform: rotate(-45deg) scaleY(0)=
+; }
+
+.menu-bg.top { left: -34%; top: 0px; transform: rotate(-45deg) translateY(-=
+152%); }
+
+.menu-bg.bottom { top: 105%; transform: rotate(-45deg) translateY(25%); lef=
+t: -20%; }
+
+#links { position: absolute; bottom: 0px; left: 0px; width: 100%; height: 5=
+0px; font-size: 13px; font-family: tahoma; color: rgb(255, 255, 255); }
+------MultipartBoundary--sehWTciO2CU067jIQsUNeJO5V5LCZ78qvzmHKrLipB----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css?family=Noto+Sans:400,700
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--sehWTciO2CU067jIQsUNeJO5V5LCZ78qvzmHKrLipB------
